@@ -8,7 +8,8 @@ window.allowedChannels = [
     'TechWorld with Nana',
     'Ben Felix',
     'The Diary Of A CEO',
-    'theMITmonk'
+    'theMITmonk',
+    'Bryan Johnson'
 ];
 
 window.allowedKeywords = [
