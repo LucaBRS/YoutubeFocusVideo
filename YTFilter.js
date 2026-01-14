@@ -6,6 +6,7 @@
 // @match        https://www.youtube.com/*
 // @require      https://raw.githubusercontent.com/LucaBRS/YoutubeFocusVideo/main/channels.js
 // @grant        none
+// @author Luca Barsottini
 // @run-at       document-idle
 // ==/UserScript==
 
