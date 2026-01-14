@@ -18,6 +18,15 @@ window.allowedKeywords = [
     'DevOps'
 ];
 
+window.allowedLearningSite = [
+  'https://www.khanacademy.org/',
+  'https://ocw.mit.edu/',
+  'https://www.coursera.org/',
+  'https://www.edx.org/',
+  'https://developer.mozilla.org/',
+  'https://roadmap.sh/'
+];
+
 window.notAllowedStreamingSite = [
   // Video streaming / TV
   'netflix.com',
